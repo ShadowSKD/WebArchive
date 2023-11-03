@@ -1,0 +1,124 @@
+{
+    "companies" : [
+        {
+            "name": "Ocsid Technology",
+            "description": "Ocsid Technologies is A Software and Website Designing / Website development company located in Hubli, Karnataka With Best Software Development, Website design and development Services.<br>Our services are:<ul><li>Web design and development School and College Management Software</li><li>System Retail Management System</li><li>Visitor Management System</li><li>E-commerce development Accounting Softwares </li><li>All Types Of Onine Web Applications And Offline Software</li></ul>Visit: <a href='http://www.ocsidtechnologies.com/service.html' style='color:rgb(0, 216, 132)'>http://www.ocsidtechnologies.com/service.html</a> <br>Our Software development Services extend to Hubli, Dharwad, Belgaum, Gadag, Haveri, Sirsi, Bijapur, Ranebennur, Mandya, Bangalore and many Other Cities in Karnataka.",
+            "employees": [{
+                "name": "Jagadish Sanju",
+                "post": "Co-Founder at Ocsid Technologies"
+            },
+            {
+                "name": "Niranjan Bhat",
+                "post": "Software Research and Development Activities"
+            },
+            {
+                 "name": "Raju Hiremath",
+                 "post": "Executive Director at Ocsid Technologies"
+            },
+            {
+                  "name": "Amith Bhat",
+                  "post": "Frontend Developer"            
+            }]
+        },
+        {
+            "name": "Chromosis Technologies Pvt. Ltd.",
+            "description": "Chromosis Technologies Pvt Ltd estd in 2012 on September 27th. Thoughts of \"Chromosis\" started over a cup of coffee, to build beautiful softwares which can be adapted by any industry and can work without trained professionals. Primary focus of Chromosis is to make tier 2 and tier 3 cities aware of technology and how it can transform their capabilities to work in a smarter way to increase efficiency and productivity. We believe in simplicity and aim to solve day to day's most common to complex problems intelligently through our products and bring smiles on our customers faces... <br>That's what we strive to do and the journey has just began... <br>\"Nothing is so contagious as enthusiasm\" ",
+            "employees": [{
+                "name": "Pawan Pawar",
+                "post": "Director at Aalpha Information Systems India Pvt. Ltd & Chromosis"
+            },
+            {
+                "name": "Suraj Pawar",
+                "post": "Working partner at Chromosis and Aalpha India"
+            },
+            {
+                 "name": "Ramesh Nittali",
+                 "post": "Director at Chromosis Technologies Pvt. Ltd | Partner at Aalpha Information Systems India Pvt Ltd | CTO at MoneyWellth"
+            },
+            {
+                  "name": "Sanjeev Kulkarni",
+                  "post": "Director at Chromosis Technologies Pvt. Ltd."            
+            }]
+        },
+        {
+            "name": "TRINITY Technologies and software solutions",
+            "description": "We are an Information Technology organization, initiated with the sole purpose of serving our customers. We see technology both as an enabler and as a generator of new opportunities. Our experienced professionals bring the latest technologies to deliver solutions that exceed our customers’ expectations. To maintain the edge, our development teams continually push the boundaries with the existing technologies while identifying entirely new categories of solutions and alternatives to deliver solutions. With our combined experiences of Development and Project Management in various sectors, we intend to provide our valuable customers with complete software solutions. We provide comprehensive custom software development services, including system analysis, software development and testing, documentation, system support and maintenance. We thrive for 100% customer satisfaction, quick turnaround time and cost effective solutions. Since the inception we have provided wide range of solutions for various business segments such as, travels, manufacturing, food, logistics, warehouse management, e-commerce, healthcare, education, auto dealer management and others. For the first time in India we introduced web services concept in online ticket booking. This feature enabled web agents and their customer to book more number of tickets with their own choice of seats at any time. With this feature the fleet owners business increased tremendously. We are headquartered in Hubli, India with presence in three other different locations Nagpur (Maharashtra, India) and Atchison, KS (US).",
+            "employees": [{
+                "name": "Jnaganand Hg",
+                "post": "DotNet Developer at Trinity Technologies and Software Solutions Pvt Ltd"
+            },
+            {
+                "name": "Vidyashree Hiremath",
+                "post": "Attended VTU"
+            },
+            {
+                "name": "Sindhu Philip",
+                "post": "AWS Cloud Administrator"
+            }]
+        },
+        {
+            "name": "SI Tech Solutions",
+            "description": "SI Tech Solutions is an expert #Website Development, #Website Designing, #Web Application Development, #Software Development, #Online Branding and SEO & SMO Services Company in India. We are located in 5 cities around India, namely Hubli-Dharwad, #Belgaum, Mangalore, Davangere and Qatar(Saudi Arabia).",
+            "employees": [{
+                "name": "Sadikali Ilkal",
+                "post": "MD at Si Tech Solutions"
+            },
+            {
+                "name": "Rajnish Kumar Kamboj",
+                "post": "Team Leader at TSI"
+            }
+            ]
+        },
+        {
+            "name": "STEK INNOVATIONS",
+            "description": "STEK Believes “Clean is more than green”. The company was started with a clear motto of Clean Technology. Clean Technology is used to define a set of technologies that either reduces or optimizes the use of natural resources, whilst at the same time reducing the environmental damage than the alternatives.",
+             "employees": [{
+                "name": "Dr. Jeethendra Kumar",
+                "post": "Founder & CEO, Proud Member of BNI"
+            },
+            {
+                "name": "Supriya Divate",
+                "post": "Human Resources Executive @STEK Innovations"
+            },
+            {
+                 "name": "Vikas Ari",
+                 "post": "Administrative Assistant / Human Resources Executive"
+            }
+            ]
+        },
+        {
+            "name": "Intelligrow Bancsoft",
+            "description": "Intelligrow Bancsoft is Financial software that provides Cloud based core Banking functionality. Intelligrow Bancsoft digitally transforms your operations, hence Improves efficiency, reduces cost and Happy customers. ",
+             "employees": [{
+                "name": "Arivuganesan Ari Krishnan",
+                "post": "CTO at Intelligrow Bancsoft"
+            },
+            {
+                "name": "Sunil Goroji",
+                "post": "Software Developer | Bridging Finance and Technology"
+            },
+            {
+                 "name": "Prajwal Hashilkar",
+                 "post": "Junior Software Developer at Intelligrow Bancsoft"
+            }
+            ]
+        },
+        {
+            "name": "QubiTs Technologies",
+            "description": "We are QubiTs Technologies and we create first-rate and superior software on a computer, mobile, and web. We produce high-quality software that is affordable and flexible.",
+             "employees": [{
+                "name": "AJEET VISHWAKARMA",
+                "post": "Founder and CEO of QubiTs Technologies"
+            },
+            {
+                "name": "Anurag Vaishnav",
+                "post": "Software Developer | Learner"
+            },
+            {
+                 "name": "Rajkumar Gopichand",
+                 "post": "Information Technology Graduate at Qubits technologies"
+            }
+            ]
+        }
+    ]
+}

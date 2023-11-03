@@ -1,0 +1,82 @@
+</div>
+<br>
+<br>
+<script>
+    var myObj = fetch("/pages.json").then((res) => { 
+        return res.json()
+    }).then((data) => {
+        let companies = data.companies  
+        let text = ""
+        let c = companies.length
+        companies.forEach(x => {
+            let idx = x.name.toLowerCase().split(" ")[0]
+            text += `<a class="fitem" id="${idx}" href="/${idx}" \ >${x.name}</a>`
+            if(c!=1) text+="<br>"
+            c--
+        })
+        document.getElementById("flist").innerHTML = text
+    })
+</script>
+<style>
+    footer {
+        background-color: #252427;
+        text-shadow: none;
+        color: #f0f0f0;
+        text-shadow: 2px 2px 4px rgba(0, 216, 132,0.5);
+    }
+    .fitem {
+        color: #abaaaf;
+        text-shadow: 2px 2px 4px rgba(0, 216, 132,0.5);
+        text-decoration: none;
+    }
+    .fitem:hover {
+        color: rgb(0, 254, 155);
+    }
+    #ftitle {
+        padding-top: 100px;
+        padding-right: 60px;
+        text-align: right;
+        border: none;
+        color:rgb(0, 216, 132);
+    }
+    #ftitle a {
+        color: #abaaaf;
+        text-decoration: none;
+    }
+    #ftitle a:hover {
+        color:rgb(0, 216, 132);
+    }
+    #fcomp {
+        border-left: solid;
+        border-color: #f0f0f0;
+    }
+</style>
+<footer>
+<div class="container">
+    <div style="height: 10px;"></div>
+    <div class="row">
+        <div class="col"></div>
+        <div style="height: 10px;"></div>
+    </div>
+    <div class="row">
+        <div class="col-3"></div>
+        <div class="col-5" id="ftitle"><h2>Software Companies</h2><p style="padding-top: 15px;"><a class="home" href="\" style="padding-right: 40px;" \ >Home</a> | <a class="about" href="\about" style="padding-right: 60px;padding-left: 40px;" \ >About</a></p></div>
+        <div class="col" id="fcomp">
+            <h4>Companies</h4>
+            <p id="flist">
+
+            </p>
+        </div>
+    </div>
+    <div style="height: 10px;"></div>
+    <hr>
+    <div class="row">
+        <div class="col"></div>
+        <div class="col-md-auto">Entreprenuer Internship  |  K.L.E. Institute of Technology</div>
+        <div class="col"></div>
+    </div>
+    <div style="height: 15px;"></div>
+</div>    
+</footer>
+</body>
+</html>
